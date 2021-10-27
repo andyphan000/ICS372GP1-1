@@ -12,4 +12,16 @@ public class Transaction {
 		this.totalPrice = totalPrice;
 		this.date = new Calendar();
 	}
+
+	public String getMemberID() {
+		return this.memberID;
+	}
+
+	public Calendar getDate() {
+		return this.date;
+	}
+
+	public double getTotalPrice() {
+
+	}
 }
