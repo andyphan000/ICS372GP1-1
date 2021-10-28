@@ -6,7 +6,6 @@ import edu.ics372.gp1.Transaction;
 
 public class TransactionList {
 	private List<Transaction> transactions;
-	
 
 	
 }
